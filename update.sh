@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 SIZE=1920x1080 #size of desktop
 TERMS=wallpaper,nature #comma separated list
